@@ -4,5 +4,7 @@ Resources and Materials for running the [2018 Flutter Study Jam](https://studyja
 
 _For more details, please reference the [Wiki](https://github.com/Flutter-FYI/2018-StudyJams/wiki) for this project._
 
+There is also an ongoing effort to create a set of simple _[slides](https://gitpitch.com/Flutter-FYI/2018-StudyJams)_ for in-venue group discussions of this content for GDG-powered Study Jams events.
+
 ![Flutter Study Jams Sticker](flutterstudyjams.png)
 
