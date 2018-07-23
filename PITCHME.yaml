@@ -4,7 +4,7 @@ layout : center-right
 # Look-and-Feel
 logo : flutterstudyjams.png
 theme : night
-theme-override : assets/css/PITCHME.css
+theme-override : PITCHME.css
 highlight : ir-black
 
 # Behavior
