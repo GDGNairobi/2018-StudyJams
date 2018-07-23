@@ -1,6 +1,6 @@
 # Flutter Study Jams
-### Nitya Narasimhan ([@nitya](https://twitter.com/nitya)
-#### GDG New York City ([@gdg_nyc](https://twitter.com/gdg_nyc)
+### Nitya Narasimhan ([@nitya](https://twitter.com/nitya))
+#### GDG New York City ([@gdg_nyc](https://twitter.com/gdg_nyc))
 
 ---
 ## L1: The Flutter Framework
