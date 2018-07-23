@@ -1,4 +1,4 @@
-#Flutter Study Jams
+# Flutter Study Jams
 ### Nitya Narasimhan 
 #### GDG New York City
 
@@ -10,3 +10,12 @@
 ## L2: Building Interactive Apps
 
 
+---
+
+## L3: Resources
+
+---
+
+# THANK YOU
+
+---
