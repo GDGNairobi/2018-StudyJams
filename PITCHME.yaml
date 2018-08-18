@@ -2,14 +2,15 @@
 layout : center-left
 
 # Look-and-Feel
-logo : flutterstudyjams.png
-theme : night
-theme-override : PITCHME.css
-highlight : ir-black
+logo : assets/image/jams.png
+theme : simple
+theme-override : assets/css/PITCHME.css
+highlight : atom-one-light
 
 # Behavior
 transition : none
 published : true
+footnote : "GDGNYC | Flutter Study Jam 2018 | @flutterfyi"
 
 # Plugins
 charts : true

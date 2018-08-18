@@ -6,5 +6,5 @@ _For more details, please reference the [Wiki](https://github.com/Flutter-FYI/20
 
 There is also an ongoing effort to create a set of simple _[slides](https://gitpitch.com/Flutter-FYI/2018-StudyJams)_ for in-venue group discussions of this content for GDG-powered Study Jams events.
 
-![Flutter Study Jams Sticker](flutterstudyjams.png)
+![Flutter Study Jams Sticker](assets/image/jams.png)
 
