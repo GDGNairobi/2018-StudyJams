@@ -1,4 +1,4 @@
-# 2018-StudyJams
+# 2019-StudyJams
 
 Resources and Materials for running the [2019 Flutter Study Jam] at the [Google Developer Group Nairobi](https://www.meetup.com/GDG-Nairobi/) based on the [Udacity course](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) to **Build Mobile Native Apps with Flutter.**
 
